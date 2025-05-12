@@ -11,7 +11,7 @@ pip install langchain
 https://python.langchain.com/docs/integrations/chat/
 ```
 ### vLLM example  
-source:/LangChain/chatModel_vllm.py
+source:/LangChain/baseChat/chatModel_vllm.py
 ```
 pip install -qU langchain-openai
 ```
